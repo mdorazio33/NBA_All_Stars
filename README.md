@@ -1,4 +1,4 @@
-This GitHUB repository contains the content for my Data Mining 2 Final Project.
+This GitHub repository contains the content for my Data Mining 2 Final Project.
 
 This includes the following:
 1. A Project Report titled "D'Orazio_Project_Report" in PDF format
