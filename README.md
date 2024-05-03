@@ -1,4 +1,4 @@
-This GitHub repository contains the content for my "NBA All-Star Predictions Using Data Mining Techniques" project.
+This GitHub repository contains the content for my "NBA All-Star Predictions Using Data Mining Techniques" research project.
 
 This includes the following:
 1. A Project Report titled "D'Orazio_Project_Report" in PDF format
